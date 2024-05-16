@@ -38,7 +38,7 @@ Claro, aqui está o texto com emojis adicionados:
 ## Recursos Adicionais
 
 - [Página do Curso](https://cognitiveclass.ai/learn/unsupervised-machine-learning)
-- [Certificado de Conclusão](link_para_certificado)
+- Certificado de Conclusão em breve!
 
 ## Autor
 
