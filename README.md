@@ -13,6 +13,15 @@ Claro, aqui está o texto com emojis adicionados:
 - Principal Component Analysis (PCA)
 - t-Distributed Stochastic Neighbor Embedding (t-SNE)
 
+## Os 7 Projetos Guiados
+- Image Segmentation with Mean Shift Clustering (concluído)
+- Building Recommender systems with Gaussian Mixture Model
+- Unraveling Patterns with DBSCAN
+- Video Processing - Subtracting Background with SVD
+- Using PCA to Improve Facial Recognition
+- Use Kernel PCA To Find Why Are You Poor
+- Build an Image Retrieval System with NMF and More
+
 ## Meu Objetivo
 
 🎯 Meu objetivo ao fazer este curso é aprofundar meus conhecimentos. Durante o curso, pretendo adquirir habilidades para encontrar insights em conjuntos de dados que não possuem uma variável alvo ou rotulada. Além disso, busco compreender diversos algoritmos de clustering e redução de dimensionalidade para aprendizado não supervisionado. A seção prática deste Caminho de Aprendizado será fundamental para aplicar as melhores práticas nesse contexto.
