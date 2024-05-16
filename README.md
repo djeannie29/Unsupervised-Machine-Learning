@@ -14,10 +14,10 @@ Claro, aqui está o texto com emojis adicionados:
 - t-Distributed Stochastic Neighbor Embedding (t-SNE)
 
 ## Os 7 Projetos Guiados
-- <p style='color:red'>Conluídos por mim:</p>
+<p style='color:red'>Conluídos por mim:</p>
 - Image Segmentation with Mean Shift Clustering
 - 
-- <p style='color:green'>Em estudo:</p>
+<p style='color:green'>Em estudo:</p>
 - Building Recommender systems with Gaussian Mixture Model
 - Unraveling Patterns with DBSCAN
 - Video Processing - Subtracting Background with SVD
