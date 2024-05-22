@@ -16,9 +16,10 @@ Claro, aqui está o texto com emojis adicionados:
 ## Os 7 Projetos Guiados
 ### 📘Concluídos: 
 - Image Segmentation with Mean Shift Clustering
+- Building Recommender systems with Gaussian Mixture Model
   
 ### 🌲Em Estudo:
-- Building Recommender systems with Gaussian Mixture Model
+
 - Unraveling Patterns with DBSCAN
 - Video Processing - Subtracting Background with SVD
 - Using PCA to Improve Facial Recognition
