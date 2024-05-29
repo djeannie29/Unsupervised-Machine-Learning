@@ -17,10 +17,10 @@ Claro, aqui está o texto com emojis adicionados:
 ### 📘Concluídos: 
 - Image Segmentation with Mean Shift Clustering
 - Building Recommender systems with Gaussian Mixture Model
+- Unraveling Patterns with DBSCAN
   
 ### 🌲Em Estudo:
 
-- Unraveling Patterns with DBSCAN
 - Video Processing - Subtracting Background with SVD
 - Using PCA to Improve Facial Recognition
 - Use Kernel PCA To Find Why Are You Poor
