@@ -1,6 +1,6 @@
 # Curso de Aprendizado Não Supervisionado em Machine Learning - Finalizado!
 
-📘 Este repositório contém (conterá) os arquivos de 7 projetos desenvolvidos durante o curso de Aprendizado Não Supervisionado em Machine Learning da Cognitive Class. O curso aborda os fundamentos do aprendizado não supervisionado, incluindo técnicas como clustering e redução de dimensionalidade.
+📘 Este repositório contém os arquivos de 7 projetos desenvolvidos durante o curso de Aprendizado Não Supervisionado em Machine Learning da Cognitive Class. O curso aborda os fundamentos do aprendizado não supervisionado, incluindo técnicas como clustering e redução de dimensionalidade.
 
 ## Descrição do Curso
 
