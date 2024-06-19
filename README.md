@@ -1,6 +1,4 @@
-Claro, aqui está o texto com emojis adicionados:
-
-# Curso de Aprendizado Não Supervisionado em Machine Learning
+# Curso de Aprendizado Não Supervisionado em Machine Learning - Finalizado!
 
 📘 Este repositório contém (conterá) os arquivos de 7 projetos desenvolvidos durante o curso de Aprendizado Não Supervisionado em Machine Learning da Cognitive Class. O curso aborda os fundamentos do aprendizado não supervisionado, incluindo técnicas como clustering e redução de dimensionalidade.
 
@@ -20,10 +18,9 @@ Claro, aqui está o texto com emojis adicionados:
 - Unraveling Patterns with DBSCAN
 - Build an Image Retrieval System with NMF and More
 - Video Processing - Subtracting Background with SVD
-  
-### 🌲Em Estudo:
 - Using PCA to Improve Facial Recognition
 - Use Kernel PCA To Find Why Are You Poor
+  
 
 
 ## Meu Objetivo
