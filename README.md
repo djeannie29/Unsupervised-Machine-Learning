@@ -19,10 +19,9 @@ Claro, aqui está o texto com emojis adicionados:
 - Building Recommender systems with Gaussian Mixture Model
 - Unraveling Patterns with DBSCAN
 - Build an Image Retrieval System with NMF and More
+- Video Processing - Subtracting Background with SVD
   
 ### 🌲Em Estudo:
-
-- Video Processing - Subtracting Background with SVD
 - Using PCA to Improve Facial Recognition
 - Use Kernel PCA To Find Why Are You Poor
 
