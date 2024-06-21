@@ -36,7 +36,23 @@
 ## Recursos Adicionais
 
 - [Página do Curso](https://cognitiveclass.ai/learn/unsupervised-machine-learning)
-- Certificado de Conclusão em breve!
+
+## Certificados
+
+<a href="https://courses.cognitiveclass.ai/certificates/deca6bd4677445c3bba6f14d421fe9e6" target="_blank">
+  <img src="https://github.com/djeannie29/Unsupervised-Machine-Learning/assets/93005067/fc9b26a3-872f-47e9-bff5-d47bbc2a84c0" alt="image" width="150">
+</a>
+
+
+
+<a href="https://courses.cognitiveclass.ai/certificates/b74a851056314ef1b6d8166b8b08d9da" target="_blank">
+  <img src="https://github.com/djeannie29/Unsupervised-Machine-Learning/assets/93005067/952aafe0-282b-4982-a44c-7d4362930d6f" alt="image" width="150">
+</a>
+
+
+
+
+
 
 ## Autor
 
